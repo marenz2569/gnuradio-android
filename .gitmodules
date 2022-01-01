@@ -24,10 +24,10 @@
 	url = https://github.com/bastibl/libgmp.git
 [submodule "libusb"]
 	path = libusb
-	url = https://github.com/bastibl/libusb.git
+	url = https://github.com/libusb/libusb.git
 [submodule "hackrf"]
 	path = hackrf
-	url = https://github.com/bastibl/hackrf.git
+	url = https://github.com/marenz2569/hackrf.git
 [submodule "gr-osmosdr"]
 	path = gr-osmosdr
 	url = https://github.com/bastibl/gr-osmosdr.git
